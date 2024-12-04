@@ -1,0 +1,7 @@
+num calculateArea(length, width) {
+   return length * width;
+}
+
+void main() {
+  calculateArea(2, 3);
+}
